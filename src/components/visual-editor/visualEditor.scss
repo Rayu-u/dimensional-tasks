@@ -1,0 +1,16 @@
+.parent {
+    width: 950px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    }
+    
+    .add { grid-area: 1 / 1 / 2 / 2; }
+    .actions { grid-area: 1 / 2 / 2 / 5; }
+    .mode { grid-area: 1 / 5 / 2 / 6; }
+    .outliner { grid-area: 2 / 1 / 7 / 2; }
+    .scene { grid-area: 2 / 2 / 6 / 5; }
+    .recording-info { grid-area: 6 / 2 / 7 / 5; }
+    .timeline-actions { grid-area: 2 / 5 / 7 / 6; }

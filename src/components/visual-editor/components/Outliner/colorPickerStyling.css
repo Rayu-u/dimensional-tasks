@@ -1,0 +1,14 @@
+.colorpicker .p-colorpicker-preview {
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 30%;
+    
+ }
+
+.colorpicker .p-colorpicker {
+    padding: 0 !important;
+}
+
+.colorpicker .p-colorpicker-overlay-panel {
+   background-color: black !important;
+}

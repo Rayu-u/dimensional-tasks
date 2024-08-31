@@ -1,0 +1,1687 @@
+{
+    "question": "Was macht die Sonne?",
+    "answerTexts": [
+        "Sie geht auf.",
+        "Sie geht unter."
+    ],
+    "feedbackTexts": [
+        "Richtig! Die Sonne geht auf!",
+        "Nicht richtig. So geht die Sonne unter. "
+    ],
+    "answerImageUrls": [],
+    "rightIndex": 0,
+    "objects": [
+        {
+            "metadata": {
+                "version": 4.6,
+                "type": "Object",
+                "generator": "Object3D.toJSON"
+            },
+            "geometries": [
+                {
+                    "uuid": "05605327-07ba-46d0-92fc-4f9ee84b2eba",
+                    "type": "BoxGeometry",
+                    "width": 1,
+                    "height": 1,
+                    "depth": 1,
+                    "widthSegments": 1,
+                    "heightSegments": 1,
+                    "depthSegments": 1
+                }
+            ],
+            "materials": [
+                {
+                    "uuid": "9a4113e3-5896-410c-bfca-7ba54944a78c",
+                    "type": "MeshStandardMaterial",
+                    "color": 2052630,
+                    "roughness": 1,
+                    "metalness": 0,
+                    "emissive": 0,
+                    "envMapRotation": [
+                        0,
+                        0,
+                        0,
+                        "XYZ"
+                    ],
+                    "envMapIntensity": 1,
+                    "blendColor": 0
+                }
+            ],
+            "object": {
+                "uuid": "1b37e6a7-80b6-4e6b-b6be-09d78f0674f4",
+                "type": "Mesh",
+                "name": "Wiese",
+                "layers": 1,
+                "matrix": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.5821940755593835,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4.090166688698849,
+                    0,
+                    2.6593364428218464,
+                    -0.16643775200790767,
+                    3.412473002006326,
+                    1
+                ],
+                "up": [
+                    0,
+                    1,
+                    0
+                ],
+                "geometry": "05605327-07ba-46d0-92fc-4f9ee84b2eba",
+                "material": "9a4113e3-5896-410c-bfca-7ba54944a78c"
+            }
+        },
+        {
+            "metadata": {
+                "version": 4.6,
+                "type": "Object",
+                "generator": "Object3D.toJSON"
+            },
+            "geometries": [
+                {
+                    "uuid": "d00f07a8-10af-4260-a565-7b1a41c5a0db",
+                    "type": "BoxGeometry",
+                    "width": 1,
+                    "height": 1,
+                    "depth": 1,
+                    "widthSegments": 1,
+                    "heightSegments": 1,
+                    "depthSegments": 1
+                }
+            ],
+            "materials": [
+                {
+                    "uuid": "62133d50-7739-4214-bf18-601bbc87a8d1",
+                    "type": "MeshStandardMaterial",
+                    "color": 3679507,
+                    "roughness": 1,
+                    "metalness": 0,
+                    "emissive": 0,
+                    "envMapRotation": [
+                        0,
+                        0,
+                        0,
+                        "XYZ"
+                    ],
+                    "envMapIntensity": 1,
+                    "blendColor": 0
+                }
+            ],
+            "object": {
+                "uuid": "18cfb046-5f00-47a7-a189-7c71b65cd68d",
+                "type": "Mesh",
+                "name": "Beet",
+                "layers": 1,
+                "matrix": [
+                    3.533069736105942,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.9780415673729257,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4.009159920916593,
+                    0,
+                    6.194717204163667,
+                    -0.7704898293064066,
+                    3.0364253441056865,
+                    1
+                ],
+                "up": [
+                    0,
+                    1,
+                    0
+                ],
+                "geometry": "d00f07a8-10af-4260-a565-7b1a41c5a0db",
+                "material": "62133d50-7739-4214-bf18-601bbc87a8d1"
+            }
+        },
+        {
+            "metadata": {
+                "version": 4.6,
+                "type": "Object",
+                "generator": "Object3D.toJSON"
+            },
+            "geometries": [
+                {
+                    "uuid": "5173c2fa-51bc-4a75-8e5c-c0a8f91d7121",
+                    "type": "BoxGeometry",
+                    "width": 1,
+                    "height": 1,
+                    "depth": 1,
+                    "widthSegments": 1,
+                    "heightSegments": 1,
+                    "depthSegments": 1
+                }
+            ],
+            "materials": [
+                {
+                    "uuid": "4ee67d58-1c39-4005-b345-e4e75263364b",
+                    "type": "MeshStandardMaterial",
+                    "color": 9433343,
+                    "roughness": 1,
+                    "metalness": 0,
+                    "emissive": 0,
+                    "envMapRotation": [
+                        0,
+                        0,
+                        0,
+                        "XYZ"
+                    ],
+                    "envMapIntensity": 1,
+                    "blendColor": 0
+                }
+            ],
+            "object": {
+                "uuid": "87b11d6f-c66f-45c7-99c0-528420e06153",
+                "type": "Mesh",
+                "name": "Himmel",
+                "layers": 1,
+                "matrix": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4.70596,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.14172555776290618,
+                    0,
+                    2.6820721822294886,
+                    0,
+                    0.6382591135653648,
+                    1
+                ],
+                "up": [
+                    0,
+                    1,
+                    0
+                ],
+                "geometry": "5173c2fa-51bc-4a75-8e5c-c0a8f91d7121",
+                "material": "4ee67d58-1c39-4005-b345-e4e75263364b"
+            }
+        },
+        {
+            "metadata": {
+                "version": 4.6,
+                "type": "Object",
+                "generator": "Object3D.toJSON"
+            },
+            "geometries": [
+                {
+                    "uuid": "69b9f9f3-416f-4f35-9ce6-6f88e938b4c8",
+                    "type": "BoxGeometry",
+                    "width": 1,
+                    "height": 1,
+                    "depth": 1,
+                    "widthSegments": 1,
+                    "heightSegments": 1,
+                    "depthSegments": 1
+                }
+            ],
+            "materials": [
+                {
+                    "uuid": "72b00dc0-d6cc-4f5a-a3c0-d8a8879607b6",
+                    "type": "MeshStandardMaterial",
+                    "color": 9236735,
+                    "roughness": 1,
+                    "metalness": 0,
+                    "emissive": 0,
+                    "envMapRotation": [
+                        0,
+                        0,
+                        0,
+                        "XYZ"
+                    ],
+                    "envMapIntensity": 1,
+                    "blendColor": 0
+                }
+            ],
+            "object": {
+                "uuid": "5c12e230-a787-4452-82c5-f7e3fc872b4f",
+                "type": "Mesh",
+                "name": "Cube",
+                "layers": 1,
+                "matrix": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4.857915631469346,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.19070604267654426,
+                    0,
+                    5.870130123882269,
+                    -0.13048311004549662,
+                    0.567501531894238,
+                    1
+                ],
+                "up": [
+                    0,
+                    1,
+                    0
+                ],
+                "geometry": "69b9f9f3-416f-4f35-9ce6-6f88e938b4c8",
+                "material": "72b00dc0-d6cc-4f5a-a3c0-d8a8879607b6"
+            }
+        },
+        {
+            "metadata": {
+                "version": 4.6,
+                "type": "Object",
+                "generator": "Object3D.toJSON"
+            },
+            "geometries": [
+                {
+                    "uuid": "b748999d-89d7-4294-b8cb-e3f5f1d89619",
+                    "type": "BoxGeometry",
+                    "width": 1,
+                    "height": 1,
+                    "depth": 1,
+                    "widthSegments": 1,
+                    "heightSegments": 1,
+                    "depthSegments": 1
+                }
+            ],
+            "materials": [
+                {
+                    "uuid": "4f0b26e9-355d-4b1c-a3e1-b0442d1512ce",
+                    "type": "MeshStandardMaterial",
+                    "color": 15104601,
+                    "roughness": 1,
+                    "metalness": 0,
+                    "emissive": 0,
+                    "envMapRotation": [
+                        0,
+                        0,
+                        0,
+                        "XYZ"
+                    ],
+                    "envMapIntensity": 1,
+                    "blendColor": 0
+                }
+            ],
+            "object": {
+                "uuid": "03309388-b1b6-421e-b95c-f7ab147420bf",
+                "type": "Mesh",
+                "name": "HausCube",
+                "layers": 1,
+                "matrix": [
+                    2.1108291813511966,
+                    0,
+                    -0.8924442637899113,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0.38941834230865047,
+                    0,
+                    0.9210609940028851,
+                    0,
+                    1.4381018568093284,
+                    0.4084397928344434,
+                    1.9485906679205955,
+                    1
+                ],
+                "up": [
+                    0,
+                    1,
+                    0
+                ],
+                "geometry": "b748999d-89d7-4294-b8cb-e3f5f1d89619",
+                "material": "4f0b26e9-355d-4b1c-a3e1-b0442d1512ce"
+            }
+        },
+        {
+            "metadata": {
+                "version": 4.6,
+                "type": "Object",
+                "generator": "Object3D.toJSON"
+            },
+            "geometries": [
+                {
+                    "uuid": "045e59b0-0518-4f85-808d-acb526b745a3",
+                    "type": "CylinderGeometry",
+                    "radiusTop": 0,
+                    "radiusBottom": 0.65,
+                    "height": 1,
+                    "radialSegments": 4,
+                    "heightSegments": 1,
+                    "openEnded": false,
+                    "thetaStart": 0,
+                    "thetaLength": 6.283185307179586
+                }
+            ],
+            "materials": [
+                {
+                    "uuid": "d7b2227d-5ef2-4ef1-8cfd-b40a1b3b3075",
+                    "type": "MeshStandardMaterial",
+                    "color": 2533018,
+                    "roughness": 1,
+                    "metalness": 0,
+                    "emissive": 0,
+                    "envMapRotation": [
+                        0,
+                        0,
+                        0,
+                        "XYZ"
+                    ],
+                    "envMapIntensity": 1,
+                    "blendColor": 0
+                }
+            ],
+            "object": {
+                "uuid": "577f75d4-66c3-4412-841f-b444ef6311a1",
+                "type": "Mesh",
+                "name": "HausDach",
+                "layers": 1,
+                "matrix": [
+                    2.667419843909092,
+                    0,
+                    -1.1277670215323699,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0.5431024953536174,
+                    0,
+                    1.2845581983895629,
+                    0,
+                    1.6008507061861046,
+                    1.5122201670997728,
+                    2.344799373099284,
+                    1
+                ],
+                "up": [
+                    0,
+                    1,
+                    0
+                ],
+                "geometry": "045e59b0-0518-4f85-808d-acb526b745a3",
+                "material": "d7b2227d-5ef2-4ef1-8cfd-b40a1b3b3075"
+            }
+        },
+        {
+            "metadata": {
+                "version": 4.6,
+                "type": "Object",
+                "generator": "Object3D.toJSON"
+            },
+            "geometries": [
+                {
+                    "uuid": "289f3668-8bcc-47e3-9fcd-625b8820a4fc",
+                    "type": "SphereGeometry",
+                    "radius": 0.6,
+                    "widthSegments": 32,
+                    "heightSegments": 16,
+                    "phiStart": 0,
+                    "phiLength": 6.283185307179586,
+                    "thetaStart": 0,
+                    "thetaLength": 3.141592653589793
+                }
+            ],
+            "materials": [
+                {
+                    "uuid": "1dbd1e31-ca02-47de-afcf-203777e7ac52",
+                    "type": "MeshStandardMaterial",
+                    "color": 16757504,
+                    "roughness": 1,
+                    "metalness": 0,
+                    "emissive": 0,
+                    "envMapRotation": [
+                        0,
+                        0,
+                        0,
+                        "XYZ"
+                    ],
+                    "envMapIntensity": 1,
+                    "blendColor": 0
+                }
+            ],
+            "object": {
+                "uuid": "c4dafd07-a1b4-4805-8585-ff80b7cdc85e",
+                "type": "Mesh",
+                "name": "Sonne",
+                "layers": 1,
+                "matrix": [
+                    1.461771805050872,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1.461771805050872,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1.461771805050872,
+                    0,
+                    4.00151980172558,
+                    -1.9930273904664642,
+                    0.39061080899848033,
+                    1
+                ],
+                "up": [
+                    0,
+                    1,
+                    0
+                ],
+                "geometry": "289f3668-8bcc-47e3-9fcd-625b8820a4fc",
+                "material": "1dbd1e31-ca02-47de-afcf-203777e7ac52"
+            }
+        }
+    ],
+    "recordings": [
+        {
+            "name": "Recording 1",
+            "objectRecordings": [
+                {
+                    "objectUUID": "c4dafd07-a1b4-4805-8585-ff80b7cdc85e",
+                    "finalRecording": {
+                        "startData": {
+                            "position": {
+                                "x": 0,
+                                "y": -1.7399936870163422,
+                                "z": 0
+                            },
+                            "rotation": {
+                                "isEuler": true,
+                                "_x": 0,
+                                "_y": 0,
+                                "_z": 0,
+                                "_order": "XYZ"
+                            },
+                            "scale": {
+                                "x": 1.461771805050872,
+                                "y": 1.461771805050872,
+                                "z": 1.461771805050872
+                            }
+                        },
+                        "recordingData": [
+                            {
+                                "time": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.7399936870163422,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 2,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.7399936870163422,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 4,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.7399936870163422,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 5,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.7399936870163422,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 6,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.5287993467461738,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 7,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.291973271485174,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 8,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.1172243012587368,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 9,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.0479634216239995,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 10,
+                                "position": {
+                                    "x": 0,
+                                    "y": -0.8789644206325584,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 11,
+                                "position": {
+                                    "x": 0,
+                                    "y": -0.6130257009491387,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 12,
+                                "position": {
+                                    "x": 0,
+                                    "y": -0.4503199397908193,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 13,
+                                "position": {
+                                    "x": 0,
+                                    "y": -0.2880972569431983,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 14,
+                                "position": {
+                                    "x": 0,
+                                    "y": -0.012249753995673185,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 15,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0.4849960180453321,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 16,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0.6557446366837612,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 18,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0.8247494418436698,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 20,
+                                "position": {
+                                    "x": 0,
+                                    "y": 1.3028574501570542,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 22,
+                                "position": {
+                                    "x": 0,
+                                    "y": 1.812100759986441,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 24,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.117739924903453,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 26,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.3749231307241847,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 27,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 28,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 29,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 31,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 33,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 35,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            }
+                        ],
+                        "totalTime": 26
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Recording 2",
+            "objectRecordings": [
+                {
+                    "objectUUID": "c4dafd07-a1b4-4805-8585-ff80b7cdc85e",
+                    "finalRecording": {
+                        "startData": {
+                            "position": {
+                                "x": 0,
+                                "y": 2.419604120264251,
+                                "z": 0
+                            },
+                            "rotation": {
+                                "isEuler": true,
+                                "_x": 0,
+                                "_y": 0,
+                                "_z": 0,
+                                "_order": "XYZ"
+                            },
+                            "scale": {
+                                "x": 1.461771805050872,
+                                "y": 1.461771805050872,
+                                "z": 1.461771805050872
+                            }
+                        },
+                        "recordingData": [
+                            {
+                                "time": 119,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 120,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 121,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 122,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 123,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 124,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.419604120264251,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 125,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.3740172397751875,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 126,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.302240818905881,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 127,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.2547630726670604,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 129,
+                                "position": {
+                                    "x": 0,
+                                    "y": 2.065992673848405,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 130,
+                                "position": {
+                                    "x": 0,
+                                    "y": 1.769872776723644,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 132,
+                                "position": {
+                                    "x": 0,
+                                    "y": 1.365261160238108,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 133,
+                                "position": {
+                                    "x": 0,
+                                    "y": 1.255837345292378,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 134,
+                                "position": {
+                                    "x": 0,
+                                    "y": 1.0760461836579553,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 135,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0.33053182876684195,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 136,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0.10296234671266458,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 138,
+                                "position": {
+                                    "x": 0,
+                                    "y": -0.10735036121764319,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 139,
+                                "position": {
+                                    "x": 0,
+                                    "y": -0.75196818063122,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 140,
+                                "position": {
+                                    "x": 0,
+                                    "y": -0.8858794187099219,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 141,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.074374932408852,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 142,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.342967977023478,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 144,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.6127349714021637,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 145,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.8522398486033707,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 146,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.953072398882953,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 147,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.9930273904664642,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 148,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.9930273904664642,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 150,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.9930273904664642,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 151,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.9930273904664642,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 152,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.9930273904664642,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            },
+                            {
+                                "time": 154,
+                                "position": {
+                                    "x": 0,
+                                    "y": -1.9930273904664642,
+                                    "z": 0
+                                },
+                                "rotation": {
+                                    "isEuler": true,
+                                    "_x": 0,
+                                    "_y": 0,
+                                    "_z": 0,
+                                    "_order": "XYZ"
+                                },
+                                "scale": {
+                                    "x": 1,
+                                    "y": 1,
+                                    "z": 1
+                                }
+                            }
+                        ],
+                        "totalTime": 30
+                    }
+                }
+            ]
+        }
+    ],
+    "recordingMap": {
+        "question": 0,
+        "answers": [
+            1,
+            2
+        ]
+    }
+}

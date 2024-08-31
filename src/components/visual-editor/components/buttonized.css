@@ -1,0 +1,8 @@
+.buttonized {
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.buttonized:hover {
+    opacity: 0.9;
+    filter: brightness(1.3) saturate(1.1);}
